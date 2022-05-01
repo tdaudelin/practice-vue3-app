@@ -1,4 +1,4 @@
-# vue-pokemon-app
+# practice-vue3-app
 
 This template should help get you started developing with Vue 3 in Vite.
 
